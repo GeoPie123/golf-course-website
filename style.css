@@ -131,12 +131,3 @@ main ul {
     color: #555;
     margin-top: 4px;
 }
-
-/* Footer */
-footer {
-    background-color: #e6e6e6;
-    padding: 10px 20px;
-    font-size: 12px;
-    text-align: right;
-    border-top: 1px solid #ccc;
-}
