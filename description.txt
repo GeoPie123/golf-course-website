@@ -1,0 +1,15 @@
+Project Description
+This website presents four of the world’s most famous golf courses: Augusta National, Cypress Point, Pine Valley, and St Andrews. The project contains five total pages (a home page plus one page for each course), along with a navigation sidebar and consistent styling using an external CSS file.
+Graphics Used
+All photographs used in this project were sourced from online publications. No graphics or images were created by me. Below are the sources for each photo included in the website:
+Augusta National image:
+https://jagwire.augusta.edu/have-you-ever-wanted-to-work-masters-week-at-augusta-national-golf-course-this-is-your-chance/
+Cypress Point image:
+https://golf.com/travel/cypress-point-photos-stunning-simplistic-pure-golf/?srsltid=AfmBOop6mrqrKCxUYOHJdW3cwYr3m2x3lrGOn0V0Efadrh6nCNl3hoNN
+St Andrews (Old Course) image:
+https://www.theopen.com/st-andrews-2027
+Pine Valley image:
+https://www.golfdigest.com/courses/nj/pine-valley-golf-club
+All other design elements—including the navigation bar, page layout, colors, and styling—were created manually by me using HTML and CSS. No graphics generators or automated design tools were used.
+Additional Work Beyond Baseline
+I created a complete five-page multi-view website with a cohesive layout, individually formatted course pages, and original textual descriptions for each course. While the site does not use responsive web design, I ensured proper page structure, consistent formatting, clean navigation between pages, and a polished visual presentation that goes beyond a single-page basic layout.
